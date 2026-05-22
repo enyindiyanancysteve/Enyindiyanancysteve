@@ -23,10 +23,8 @@
         <circle cx="50" cy="50" r="46" fill="none" stroke="url(#purpleGrad)" stroke-width="2" stroke-dasharray="30 10">
           <animateTransform attributeName="transform" type="rotate" from="0 50 50" to="360 50 50" dur="10s" repeatCount="indefinite" />
         </circle>
-        <clipPath id="circleView">
-          <circle cx="50" cy="50" r="42" />
-        </clipPath>
-        <image x="8" y="8" width="84" height="84" href="https://github.com/identicons/enyindiya.png" clip-path="url(#circleView)" />
+        <circle cx="50" cy="50" r="42" fill="#120c1d" />
+        <text x="50" y="58" font-size="30" text-anchor="middle">🔒</text>
       </svg>
       <br /><br />
       <sub><b>Senior Executive Assistant<br />& Operations Lead</b></sub>
@@ -35,20 +33,7 @@
       <h3>⚡ Core Philosophy</h3>
       <p>A trusted C-suite operator managing multi-regional pipelines, complex international logistics, and distribution workflows—backed by an aggressive technical edge in cloud environments, infrastructure compliance tracking, and code automation.</p>
       <br />
-      <img src="https://github-readme-stats.vercel.app/api?username=enyindiyanancysteve&show_icons=true&theme=tokyonight&bg_color=0c0a12&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&border_color=A855F7&border_radius=10" width="100%" alt="Live Profile Stats" />
-    </td>
-  </tr>
-</table>
-
-<br>
-
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=enyindiyanancysteve&layout=compact&theme=tokyonight&bg_color=0c0a12&title_color=A855F7&icon_color=A855F7&text_color=FFFFFF&border_color=A855F7&border_radius=10" width="98%" alt="Top Languages" />
-    </td>
-    <td width="50%" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=enyindiyanancysteve&theme=tokyonight&background=0c0a12&title=A855F7&fire=A855F7&ring=A855F7&sideBorder=A855F7&border=A855F7&border_radius=10" width="98%" alt="Contribution Streak" />
+      <img src="https://img.shields.io/badge/SYSTEM_STATUS-SECURE_OPERATIONAL_NODE-A855F7?style=for-the-badge&logo=github&logoColor=121214" width="100%"/>
     </td>
   </tr>
 </table>
