@@ -1,10 +1,12 @@
 ## Hi there 👋
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=32&duration=2500&pause=1000&color=A855F7&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Enyindiya+Nancy+Steve+✨;Cloud+Security+%26+Compliance+Architect+🔒;Senior+Executive+Assistant+%F0%9F%92%BC;Operations+%26+Automation+Expert+⚡" alt="Typing SVG" />
+# 🌌 ENYINDIYA NANCY STEVE
+### 🔒 Cloud Security & Compliance Architect • 💼 Operations Specialist
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Operating%20Across-GMT%20%7C%20WAT%20%7C%20EST-121214?style=for-the-badge&labelColor=A855F7&color=121214" />
+  <img src="https://img.shields.io/badge/STATUS-OPERATING_ACROSS_GMT_%7C_WAT_%7C_EST-A855F7?style=for-the-badge&labelColor=121214" alt="Timezones" />
 </p>
 
 ---
@@ -82,3 +84,4 @@
 <img src="https://komarev.com/ghpvc/?username=enyindiyanancysteve&color=A855F7&style=flat-square&label=SECURE+NODE+ACCESSES" alt="Visitor Counter" />
 
 </div>
+
